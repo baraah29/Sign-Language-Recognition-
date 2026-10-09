@@ -10,7 +10,7 @@
 
 ---
 
-## 🖤 About The Project
+##  About The Project
 
 This project explores sign language recognition using a machine learning workflow. It includes scripts for preparing a dataset, training a classifier, and testing predictions.
 
@@ -38,7 +38,7 @@ Sign-Language-Recognition/
 └── README.md
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 
