@@ -22,9 +22,6 @@ x_predict =model.predict(x_test)
 score= accuracy_score(x_predict,y_test) 
 
 print('{}% of samples were classified correctly !'.format(score*100))
-#81.81818181818183% of samples were classified correctly !
-#72.72727272727273% of samples were classified correctly !
-#75.0% of samples were classified correctly !
 #95.23809523809523% of samples were classified correctly !
 #{'23', '21', '5', '14', '0', '10', '1', '18', '9', '15', '6', '12', '7', '8', '16', '11', '17', '24'}
 
